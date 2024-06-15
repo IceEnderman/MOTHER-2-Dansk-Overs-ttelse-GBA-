@@ -1,0 +1,58 @@
+000: Systemfejl![BREAK]
+000-E: Systemfejl![BREAK]
+001: @bror! Jeg er så bange![BREAK][PAUSE]Min lampe begynder pludselig[BREAK]at blive skør![BREAK]
+001-E: @bror! Jeg er så bange![BREAK][PAUSE]Min lampe begynder pludselig[BREAK]at blive skør![BREAK]
+002: @bror! Det er som om, vores[BREAK]hus er ved at falde[BREAK] fra hinanden![BREAK]
+002-E: @bror! Det er som om, vores[BREAK]hus er ved at falde[BREAK] fra hinanden![BREAK]
+003: @Waah![BREAK]
+003-E: @Waah![BREAK]
+004: @Her er noget juice, store[BREAK]bror![BREAK][PAUSE]Du må være ret tørstig.[BREAK]
+004-E: @Her er noget juice, store[BREAK]bror![BREAK][PAUSE]Du må være ret tørstig.[BREAK]
+005: @Eek![BREAK]Min dukke er ved at blive skør![BREAK]
+005-E: @Eek![BREAK]Min dukke er ved at blive skør![BREAK]
+006: @Puha, det var skræmmende.[BREAK][PAUSE]@Åh! Jeg tror, ​​jeg ser noget[BREAK]inde i dukken![BREAK]
+006-E: @Puha, det var skræmmende.[BREAK][PAUSE]@Åh! Jeg tror, ​​jeg ser noget[BREAK]inde i dukken![BREAK]
+007:
+007-E:
+008: @Jeg hedder Mimmie.[BREAK]Bland mig ikke sammen med[BREAK]Minnie![BREAK]
+008-E: @Jeg hedder Mimmie.[BREAK]Bland mig ikke sammen med[BREAK]Minnie![BREAK]
+009: @Er du okay, [03 10]?[BREAK][PAUSE]@Hvad i alverden sker der[BREAK]med vores hjem?[BREAK][PAUSE]Jeg er så bange...[BREAK][PAUSE ]@Hvis bare din far var[BREAK]her nu...[BREAK]
+009-E: @Er du okay, [03 10]?[BREAK][PAUSE]@Hvad i alverden sker der[BREAK]med vores hjem?[BREAK][PAUSE]Jeg er så bange...[BREAK] [PAUSE]@Hvis bare din far var[BREAK]her nu...[BREAK]
+00A: @Du er meget modigere, end jeg[BREAK] nogensinde havde forestillet mig.[BREAK][PAUSE]@...Men jeg kan ikke sende dig på[BREAK]en rejse så sulten.[BREAK]
+00A-E: @Du er meget modigere, end jeg[BREAK] nogensinde havde forestillet mig.[BREAK][PAUSE]@...Men jeg kan ikke sende dig på[BREAK]en rejse så sulten.[BREAK]
+00B: @Åh, du! Du er såret![BREAK]
+00B-E: @Åh, du! Du er såret![BREAK]
+00C: @Lad os se... For at komme til[BREAK]næste niveau skal du...[BREAK]
+00C-E: @Lad os se... For at komme til[BREAK]næste niveau skal du have...[BREAK]
+00D: @Kom hjem, når du[BREAK]vil have mere [03 15].[BREAK]
+00D-E: @Kom hjem, når du[BREAK]vil have mere [03 15].[BREAK]
+00E: @Hmm, jeg kan se. Det lyder som om det[BREAK]må være en poltergeist af[BREAK]en slags.[BREAK][PAUSE]@Jeg er heller ikke sikker på, hvad jeg skal gøre[BREAK]ved det.[BREAK][PAUSE]@Men du er fantastisk -bedstefar[BREAK]studerede PSI på et tidspunkt.[BREAK][PAUSE]@Måske er der noget[BREAK]i kælderen, der kunne[BREAK]hjælpe med at give mening i tingene.[BREAK][PAUSE]@Jeg ved, at jeg satte kælderen[BREAK]nøglen et sted...[BREAK][PAUSE]men jeg kan ikke huske hvor.[BREAK][PAUSE]@Du er i hvert fald vores eneste[BREAK]håb. Nu er det tid til[BREAK]et eventyr.[BREAK][PAUSE]Gå videre, [03 10]![BREAK]Beskyt os alle![BREAK]
+00E-E: @Hmm, jeg kan se. Det lyder som om det[BREAK]må være en poltergeist af[BREAK]en slags.[BREAK][PAUSE]@Jeg er heller ikke sikker på, hvad jeg skal gøre[BREAK]ved det.[BREAK][PAUSE]@Men du er fantastisk -bedstefar[BREAK]studerede PSI på et tidspunkt.[BREAK][PAUSE]@Måske er der noget[BREAK]i kælderen, der kunne[BREAK]hjælpe med at give mening i tingene.[BREAK][PAUSE]@Jeg ved, at jeg satte kælderen[BREAK]nøglen et sted...[BREAK][PAUSE]men jeg kan ikke huske hvor.[BREAK][PAUSE]@Du er i hvert fald vores eneste[BREAK]håb. Nu er det tid til[BREAK]et eventyr.[BREAK][PAUSE]Gå videre, [03 10]![BREAK]Beskyt os alle![BREAK]
+00F:
+00F-E:
+010:
+010-E:
+011:
+011-E:
+012:
+012-E:
+013: @(Klik! Bip-bip-bip...)[BREAK]
+013-E: @(Klik! Bip-bip-bip...)[BREAK]
+014: @[03 10]? Det er din far.[BREAK]
+014-E: @[03 10]? Det er din far.[BREAK]
+015: @Jeg har indsat $[03 18][BREAK]på din bankkonto.[BREAK][PAUSE]@Hvis du tager det væk, du har[BREAK]brugt, skulle du nu have[BREAK]$[03 19] i banken.[BREAK][PAUSE]@Brug det fornuftigt.[BREAK]
+015-E: @Jeg har indsat $[03 18][BREAK]ind på din bankkonto.[BREAK][PAUSE]@Hvis du tager det væk, du har[BREAK]brugt, skulle du nu have[BREAK]$[03 19] i banken.[BREAK][PAUSE]@Brug det fornuftigt.[BREAK]
+016: @Jeg ved godt, at dette ikke er noget[BREAK]min sag, men hvorfor[BREAK]tager du ikke en lille pause?[BREAK]
+016-E: @Jeg ved godt, at dette ikke er noget af[BREAK]min sag, men hvorfor[BREAK]tager du ikke en lille pause?[BREAK]
+017: @Jeg kan se. Så laver jeg en[BREAK]registrering af dine fremskridt.[BREAK]
+017-E: @Jeg forstår. Så laver jeg en[BREAK]registrering af dine fremskridt.[BREAK]
+018: @Jeg kan se. Nå, jeg gætter på, at[BREAK]Jorden ER i fare og det hele.[BREAK]
+018-E: @Jeg forstår. Nå, jeg gætter på, at[BREAK]Jorden ER i fare og det hele.[BREAK]
+019:
+019-E:
+01A:
+01A-E:
+01B: @Okay.[BREAK][PAUSE]@Din kære gamle far[BREAK]tænkte også på at slå[BREAK]hø for natten.[BREAK][PAUSE]@Jeg har oprettet en registrering af[BREAK] dit eventyr til dette[BREAK]punkt.[BREAK][PAUSE]@Godnat, sov godt.[BREAK]
+01B-E: @Okay.[BREAK][PAUSE]@Din kære gamle far[BREAK]tænkte også på at slå[BREAK]hø for natten.[BREAK][PAUSE]@Jeg har oprettet en registrering af[ BREAK]dit eventyr til dette[BREAK]punkt.[BREAK][PAUSE]@Godnat, sov godt.[BREAK]
+01C: @Vi er et fantastisk team, ikke[BREAK]vi?[BREAK][PAUSE]@Nå, du bør slukke for[BREAK]strømmen nu.[BREAK][PAUSE]@Godt?[BREAK ]
+01C-E: @Vi er et fantastisk team, aren
